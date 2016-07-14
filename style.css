@@ -13,11 +13,13 @@
 }
 
 .plan_price{
+  line-height: 30px;
 	min-width: 100px;
 	display: inline-block;
 }
 .plan_contain{
-
+  line-height: 30px;
+  min-height: 30px;
 	width: 80%;
     margin: 0 auto;
 
@@ -25,9 +27,24 @@
 .inner_contain{
 	min-height: 10px
 }
+<<<<<<< HEAD
 .selected{
   height: 20px;
 }
 .button{
   height: 20px;
+=======
+.button{
+  height: 29px;
+  margin: 0px;
+  padding: 0px;
+  border-width: 0px;
+
+}
+.selected{
+  line-height: 30px;
+  height: 30px;
+  color:red;
+  display: inline-block;
+>>>>>>> refs/remotes/origin/gh-pages
 }

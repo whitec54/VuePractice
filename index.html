@@ -18,11 +18,11 @@
 
 			<span class = "plan_price"> {{ plan.price }}/month </span>
 
-			<button @click="setActivePlan" v-show="this.plan !== this.active"> 
+			<button @click="setActivePlan" v-show="this.plan !== this.active" class="button"> 
 				{{ isUpgrade ? "upgrade":"downgrade"}} 
 			</button>
 
-			<span v-else>Selected</span>
+			<span v-else class="selected">Selected</span>
 
 		</div>
 	</template>
