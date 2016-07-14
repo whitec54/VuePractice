@@ -1,0 +1,27 @@
+.center {
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+    border: 1px solid gray;
+    position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+}
+.plan_name{
+	min-width: 100px;
+	display: inline-block;
+}
+
+.plan_price{
+	min-width: 100px;
+	display: inline-block;
+}
+.plan_contain{
+
+	width: 80%;
+    margin: 0 auto;
+
+}
+.inner_contain{
+	min-height: 10px
+}
