@@ -29,6 +29,8 @@
 }
 .button{
   height: 30px;
+  margin-top: 0px;
+
 }
 .selected{
   height: 30px;
