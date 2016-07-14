@@ -13,10 +13,12 @@
 }
 
 .plan_price{
+  line-height: 30px;
 	min-width: 100px;
 	display: inline-block;
 }
 .plan_contain{
+  line-height: 30px;
   min-height: 30px;
 	width: 80%;
     margin: 0 auto;
