@@ -29,8 +29,8 @@
 }
 .button{
   height: 30px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin: 0px;
+  padding: 0px;
 
 }
 .selected{
