@@ -25,3 +25,9 @@
 .inner_contain{
 	min-height: 10px
 }
+.selected{
+  height: 20px;
+}
+.button{
+  height: 20px;
+}
